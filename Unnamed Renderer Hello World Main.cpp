@@ -3,13 +3,6 @@
 // Chris M.
 // https://github.com/RealTimeChris
 
-/*
-NOTES:
-	-Cuts down on boilerplate and settings-selection.
-	-Leaves important usage functions on the command lists exposed, which avoids "dumbing down" the important stuff.
-
-*/
-
 #include "WinRTStuff.hpp"
 #include "DirectXStuff.hpp"
 
