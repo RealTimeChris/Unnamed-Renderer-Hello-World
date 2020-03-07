@@ -7,5 +7,5 @@ The compute shader converts the pixel coordinates into screen space values where
 
 The final pixel colors have their intensity defined by the "GlobalTickInRadians" value that is passed from host to device as an inline root constant. This value is updated once per frame, where; GlobalTickInRadians = (CurrentFinalFrameIndex / FinalFrameCount) * 2.0f
 
-## Application Output
+## Link to Video:
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Qv-gqeewmew/0.jpg)](https://www.youtube.com/watch?v=Qv-gqeewmew)
